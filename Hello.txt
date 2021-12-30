@@ -7,3 +7,4 @@ change: for stash.
 
 change: For Github Purpose.
 
+change: Change by Teammate on remote side.
