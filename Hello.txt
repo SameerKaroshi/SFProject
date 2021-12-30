@@ -1,3 +1,7 @@
 Hello Sameer !
-Hello Sujal !
 change - done bye me.
+
+
+change: for the bug2. 
+
+>>>>>>> bug2
